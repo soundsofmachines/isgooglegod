@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>isgooglegod</title>
+        <title>Is Google God</title>
         <meta name="description" content="isgooglegod" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
