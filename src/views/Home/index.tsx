@@ -10,7 +10,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Is Google God</title>
-        <meta name="description" content="isgooglegod" />
+        <meta name="description" content="is google god" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Box>
